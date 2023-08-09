@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Karim</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 👨‍💻 All of my projects are available at [https://mirakshaikhs582.github.io/abdulkarim.portfolio/](https://mirakshaikhs582.github.io/abdulkarim.portfolio/)
+- 👨‍💻 All of my projects are available at [https://mirakshaikhs582.github.io/abdulkarim.portfolio/]
 
 - 📫 How to reach me **abdulkarims582@gmail.com**
 
@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirakshaikhs582&show_icons=true&locale=en" alt="mirakshaikhs582" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirakshaikhs582&" alt="mirakshaikhs582" /></p>
